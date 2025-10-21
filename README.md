@@ -1,0 +1,2 @@
+# verify-commit-public
+public
